@@ -3,6 +3,13 @@ COOKBOOK(1)						User Manuals					COOKBOOK(1)
 AUTHOR
 		kataklasm <github/kataklasm>
 
+OVERVIEW
+		RECIPE_0 - red lentil curry
+		RECIPE_1 - leek and cheese soup
+		RECIPE_2 - sweet potato curry
+		RECIPE_3 - roasted bell pepper in cream sauce
+
+
 RECIPE_0
 
 	NAME
