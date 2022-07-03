@@ -1,0 +1,87 @@
+COOKBOOK(1)						User Manuals					COOKBOOK(1)
+
+AUTHOR
+		kataklasm <github/kataklasm>
+
+RECIPE_0
+
+	NAME
+			red lentil curry
+
+	SYNOPSIS
+			red lentil curry [side options]
+			red lentil curry with freshly toasted/roasted naan or pita
+			red lentil curry with basmati rice
+
+	INGREDIENTS
+			for two servings:
+				red lentils                 [200g]
+				vegetable stock             [500ml, more as needed]
+				crushed tomatoes            [250ml]
+				fresh tomatoes cubed        [2pcs]
+				pre-cooked chickpeas        [300g]
+				full-fat coconut milk       [400ml]
+				fresh turmeric              [2-3cm long piece]
+				fresh ginger                [2-3cm long piece]
+				fresh garlic                [2-3 cloves]
+				fresh green pepper (hot)    [1 or 2 peppers]
+				red onion                   [1, medium size]
+				cumin powder                [2 tsp]
+				coriander powder            [2 tsp]
+				chili powder                [2 tsp]
+				paprika powder (sweet)      [1 tsp]
+				curry powder                [2 tsp]
+				lemon juice                 [half a lemon]
+				salt
+				pepper
+
+	DIRECTIONS
+			0   Mince or grate onions, garlic, ginger, green peppers and
+				turmeric; rinse red lentils thoroughly
+
+			1   Roast onions, garlic, ginger, green peppers and turmeric
+				over medium heat until browned and fragrant
+
+			2   Add powder spices, roast until fragrant. watch for burning
+
+			3   Glaze with vegetable stock, add rinsed red lentils,
+				crushed and cubed tomatoes
+
+			4   Simmer for 20 to 25min, adding more vegetable stock as
+				needed for lentils to become al dente
+
+			5   After 15min, add full-fat coconut milk
+
+			6   Once red lentils are almost al dente, add pre-cooked
+				chickpeas
+
+			7   Season to taste with salt and pepper
+
+			8   Add juice of half a lemon
+
+	SERVING
+			Serve with freshly cooked basmati rice or toasted/freshly
+			baked pita or naan
+
+
+
+RECIPE_N
+
+	NAME
+			<recipe title>
+
+	INGREDIENTS
+			for two servings:
+				<ingredient_0>
+				<ingredient_1>
+				<ingredient_2>
+
+	DIRECTIONS
+			0   <direction_0>
+
+			1   <direction_1>
+
+			2   <direction_2>
+
+	SERVING
+			<how to serve>
