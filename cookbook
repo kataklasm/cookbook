@@ -1,0 +1,132 @@
+COOKBOOK(1)						User Manuals					COOKBOOK(1)
+
+AUTHOR
+		kataklasm <github/kataklasm>
+
+OVERVIEW
+		RECIPE_0 - red lentil curry
+		RECIPE_1 - leek and cheese soup
+
+
+
+RECIPE_0
+
+	NAME
+			red lentil curry
+
+	SYNOPSIS
+			red lentil curry [side options]
+			red lentil curry with freshly toasted/roasted naan or pita
+			red lentil curry with basmati rice
+
+	INGREDIENTS
+			for two servings:
+				Red lentils                 [200g]
+				Vegetable stock             [500ml, more as needed]
+				Crushed tomatoes            [250ml]
+				Fresh tomatoes cubed        [2pcs]
+				Pre-cooked chickpeas        [300g]
+				Full-fat coconut milk       [400ml]
+				Fresh turmeric              [2-3cm long piece]
+				Fresh ginger                [2-3cm long piece]
+				Fresh garlic                [2-3 cloves]
+				Fresh green pepper (hot)    [1 or 2 peppers]
+				Red onion                   [1, medium size]
+				Cumin powder                [2 tsp]
+				Coriander powder            [2 tsp]
+				Chili powder                [2 tsp]
+				Paprika powder (sweet)      [1 tsp]
+				Curry powder                [2 tsp]
+				Lemon juice                 [half a lemon]
+				Salt
+				Pepper
+
+	DIRECTIONS
+			0   Mince or grate onions, garlic, ginger, green peppers and
+				turmeric; rinse red lentils thoroughly
+
+			1   Roast onions, garlic, ginger, green peppers and turmeric
+				over medium heat until browned and fragrant
+
+			2   Add powder spices, roast until fragrant. watch for burning
+
+			3   Glaze with vegetable stock, add rinsed red lentils,
+				crushed and cubed tomatoes
+
+			4   Simmer for 20 to 25min, adding more vegetable stock as
+				needed for lentils to become al dente
+
+			5   After 15min, add full-fat coconut milk
+
+			6   Once red lentils are almost al dente, add pre-cooked
+				chickpeas
+
+			7   Season to taste with salt and pepper
+
+			8   Add juice of half a lemon
+
+	SERVING
+			Serve with freshly cooked basmati rice or toasted/freshly
+			baked pita or naan
+
+
+
+RECIPE_1
+
+	NAME
+			leek and cheese soup
+
+	INGREDIENTS
+			for four servings:
+				Leek                        [2 stalks]
+				Red onion                   [2 medium]
+				Garlic                      [4 cloves]
+				Creme fraiche               [250ml]
+				Vegetable broth             [700ml]
+				Soft cheese                 [150g]
+				Soy minced meat             [200g]
+				Vegetable oil
+				Salt
+				Pepper
+
+	DIRECTIONS
+			0   Wash and cut leek into small (~1cm width) rings. Dice red
+				onion, mince garlic
+
+			1   Into a large pot, pour vegetable oil and fry chopped onion
+				and the soy meat until crispy and brown. Add garlic,
+				careful not to burn it.
+
+			2   Throw sliced leek into the pot and stir. Deglaze with
+				vegetable broth after a minute or two. Let simmer for
+				about ten minutes
+
+			3   Add generous amount of grated soft cheese as well as the
+				creme fraiche. Mix thoroughly. Season to taste with salt
+				and pepper.
+
+	SERVING
+			Serve with fresh baguette.
+
+
+
+RECIPE_N
+
+	NAME
+			<recipe title>
+
+	INGREDIENTS
+			for two servings:
+				<ingredient_0>
+				<ingredient_1>
+				<ingredient_2>
+
+	DIRECTIONS
+			0   <direction_0>
+
+			1   <direction_1>
+
+			2   <direction_2>
+
+	SERVING
+			<how to serve>
